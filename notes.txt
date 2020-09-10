@@ -1,0 +1,1 @@
+1 loop takes 108.2ms (9.24Hz) at 216MHz -> set timer to 8Hz
