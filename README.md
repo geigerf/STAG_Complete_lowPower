@@ -4,6 +4,7 @@
 
 Flashing this code on the STM32F769I-DISC1 board simulates an application scenario in which the MCU is actively collecting and processing sensor data for some time before entering low-power mode.
 
+
 ## System requirements
 
 If using the Makefile to compile the project, GNU Embedded Toolchain for Arm is required.
